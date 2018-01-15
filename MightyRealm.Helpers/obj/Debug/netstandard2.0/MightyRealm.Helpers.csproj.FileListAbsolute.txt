@@ -1,0 +1,8 @@
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Helpers\bin\Debug\netstandard2.0\MightyRealm.Helpers.deps.json
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Helpers\bin\Debug\netstandard2.0\MightyRealm.Helpers.dll
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Helpers\bin\Debug\netstandard2.0\MightyRealm.Helpers.pdb
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Helpers\obj\Debug\netstandard2.0\MightyRealm.Helpers.csproj.CoreCompileInputs.cache
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Helpers\obj\Debug\netstandard2.0\MightyRealm.Helpers.AssemblyInfoInputs.cache
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Helpers\obj\Debug\netstandard2.0\MightyRealm.Helpers.AssemblyInfo.cs
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Helpers\obj\Debug\netstandard2.0\MightyRealm.Helpers.dll
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Helpers\obj\Debug\netstandard2.0\MightyRealm.Helpers.pdb

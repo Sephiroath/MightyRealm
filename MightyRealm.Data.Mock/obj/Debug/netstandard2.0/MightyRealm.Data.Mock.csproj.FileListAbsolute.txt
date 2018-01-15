@@ -1,0 +1,8 @@
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Data.Mock\bin\Debug\netstandard2.0\MightyRealm.Data.Mock.deps.json
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Data.Mock\bin\Debug\netstandard2.0\MightyRealm.Data.Mock.dll
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Data.Mock\bin\Debug\netstandard2.0\MightyRealm.Data.Mock.pdb
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Data.Mock\obj\Debug\netstandard2.0\MightyRealm.Data.Mock.csproj.CoreCompileInputs.cache
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Data.Mock\obj\Debug\netstandard2.0\MightyRealm.Data.Mock.AssemblyInfoInputs.cache
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Data.Mock\obj\Debug\netstandard2.0\MightyRealm.Data.Mock.AssemblyInfo.cs
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Data.Mock\obj\Debug\netstandard2.0\MightyRealm.Data.Mock.dll
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Data.Mock\obj\Debug\netstandard2.0\MightyRealm.Data.Mock.pdb

@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\MightyRealm.Helpers\MightyRealm.Helpers.csproj">
+      <Project>{F6D856DF-9641-4149-977A-E34246A716B1}</Project>
+      <Name>MightyRealm.Helpers</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>

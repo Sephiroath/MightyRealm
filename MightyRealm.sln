@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.0.0
+MinimumVisualStudioVersion = 10.0.0.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyRealm", "MightyRealm\MightyRealm.csproj", "{A7EE07E8-0D64-41B2-9ABF-67053C89BC46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{7D7DEA68-6F8E-4AB2-9822-A08DC3A17266}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{2DA573DE-C031-4A68-B395-30739DBF089B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Business", "Business", "{8E26F2EF-2800-4323-81C2-46853806425B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Presentation", "Presentation", "{E47104CA-F09D-43DD-B791-2443FF3BFE56}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyRealm.Core", "MightyRealm.Core\MightyRealm.Core.csproj", "{065A5609-E7F0-41AC-BE20-3A176A79E044}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyRealm.Data.Mock", "MightyRealm.Data.Mock\MightyRealm.Data.Mock.csproj", "{098B393D-2A47-4893-BD56-7B6389D59FAC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyRealm.Helpers", "MightyRealm.Helpers\MightyRealm.Helpers.csproj", "{F6D856DF-9641-4149-977A-E34246A716B1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7EE07E8-0D64-41B2-9ABF-67053C89BC46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7EE07E8-0D64-41B2-9ABF-67053C89BC46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7EE07E8-0D64-41B2-9ABF-67053C89BC46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7EE07E8-0D64-41B2-9ABF-67053C89BC46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{065A5609-E7F0-41AC-BE20-3A176A79E044}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{065A5609-E7F0-41AC-BE20-3A176A79E044}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{065A5609-E7F0-41AC-BE20-3A176A79E044}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{065A5609-E7F0-41AC-BE20-3A176A79E044}.Release|Any CPU.Build.0 = Release|Any CPU
+		{098B393D-2A47-4893-BD56-7B6389D59FAC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{098B393D-2A47-4893-BD56-7B6389D59FAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{098B393D-2A47-4893-BD56-7B6389D59FAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{098B393D-2A47-4893-BD56-7B6389D59FAC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F6D856DF-9641-4149-977A-E34246A716B1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F6D856DF-9641-4149-977A-E34246A716B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F6D856DF-9641-4149-977A-E34246A716B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F6D856DF-9641-4149-977A-E34246A716B1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A7EE07E8-0D64-41B2-9ABF-67053C89BC46} = {E47104CA-F09D-43DD-B791-2443FF3BFE56}
+		{065A5609-E7F0-41AC-BE20-3A176A79E044} = {7D7DEA68-6F8E-4AB2-9822-A08DC3A17266}
+		{098B393D-2A47-4893-BD56-7B6389D59FAC} = {2DA573DE-C031-4A68-B395-30739DBF089B}
+		{F6D856DF-9641-4149-977A-E34246A716B1} = {7D7DEA68-6F8E-4AB2-9822-A08DC3A17266}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\albarracinca\.Rider2017.2\system\resharper-host\local\Transient\ReSharperHost\v10\SolutionCaches\_MightyRealm.1454714422.00" t="ExcludeRecursive" />
+    <e p="C:\Users\albarracinca\RiderProjects\MightyRealm" t="IncludeFlat">
+      <e p="Business" t="Include" />
+      <e p="Core" t="Include" />
+      <e p="Data" t="Include" />
+      <e p="MightyRealm" t="IncludeRecursive">
+        <e p=".gitignore" t="Include" />
+        <e p=".idea" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="cd" t="Include" />
+        <e p="ClientApp" t="Include">
+          <e p="app" t="Include">
+            <e p="app.browser.module.ts" t="Include" />
+            <e p="app.server.module.ts" t="Include" />
+            <e p="app.shared.module.ts" t="Include" />
+            <e p="components" t="Include">
+              <e p="app" t="Include">
+                <e p="app.component.css" t="Include" />
+                <e p="app.component.html" t="Include" />
+                <e p="app.component.ts" t="Include" />
+              </e>
+              <e p="counter" t="Include">
+                <e p="counter.component.html" t="Include" />
+                <e p="counter.component.spec.ts" t="Include" />
+                <e p="counter.component.ts" t="Include" />
+              </e>
+              <e p="fetchdata" t="Include">
+                <e p="fetchdata.component.html" t="Include" />
+                <e p="fetchdata.component.ts" t="Include" />
+              </e>
+              <e p="home" t="Include">
+                <e p="home.component.html" t="Include" />
+                <e p="home.component.ts" t="Include" />
+              </e>
+              <e p="navmenu" t="Include">
+                <e p="navmenu.component.css" t="Include" />
+                <e p="navmenu.component.html" t="Include" />
+                <e p="navmenu.component.ts" t="Include" />
+              </e>
+            </e>
+          </e>
+          <e p="boot.browser.ts" t="Include" />
+          <e p="boot.server.ts" t="Include" />
+          <e p="dist" t="Include">
+            <e p="89889688147bd7575d6327160d64e760.svg" t="Include" />
+            <e p="main-server.js" t="Include" />
+            <e p="vendor.js" t="Include" />
+          </e>
+          <e p="test" t="Include">
+            <e p="boot-tests.ts" t="Include" />
+            <e p="karma.conf.js" t="Include" />
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="HomeController.cs" t="Include" />
+          <e p="SampleDataController.cs" t="Include" />
+        </e>
+        <e p="dir" t="Include" />
+        <e p="MightyRealm" t="Include" />
+        <e p="MightyRealm.csproj" t="IncludeRecursive" />
+        <e p="npm-shrinkwrap.json" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="MightyRealm.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="package.json" t="Include" />
+        <e p="Program.cs" t="Include" />
+        <e p="Startup.cs" t="Include" />
+        <e p="tsconfig.json" t="Include" />
+        <e p="Views" t="Include">
+          <e p="_ViewImports.cshtml" t="Include" />
+          <e p="_ViewStart.cshtml" t="Include" />
+          <e p="home" t="Include">
+            <e p="Index.cshtml" t="Include" />
+          </e>
+          <e p="Shared" t="Include">
+            <e p="_Layout.cshtml" t="Include" />
+            <e p="Error.cshtml" t="Include" />
+          </e>
+        </e>
+        <e p="webpack.config.js" t="Include" />
+        <e p="webpack.config.vendor.js" t="Include" />
+        <e p="wwwroot" t="Include">
+          <e p="dist" t="Include">
+            <e p="89889688147bd7575d6327160d64e760.svg" t="Include" />
+            <e p="main-client.js" t="Include" />
+            <e p="main-client.js.map" t="Include" />
+            <e p="vendor-manifest.json" t="Include" />
+            <e p="vendor.css" t="Include" />
+            <e p="vendor.js" t="Include" />
+          </e>
+          <e p="favicon.ico" t="Include" />
+        </e>
+      </e>
+      <e p="MightyRealm.Core" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Elementgs" t="Include" />
+        <e p="Magic" t="Include">
+          <e p="_Magic.cs" t="Include" />
+          <e p="Edict.cs" t="Include" />
+          <e p="Element.cs" t="Include" />
+        </e>
+        <e p="MightyRealm.Core.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="MightyRealm.Core.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="People" t="Include">
+          <e p="_People.cs" t="Include" />
+          <e p="Person.cs" t="Include" />
+        </e>
+      </e>
+      <e p="MightyRealm.Data.Mock" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Elements" t="Include" />
+        <e p="MightyRealm.Data.Mock.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="MightyRealm.Data.Mock.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MightyRealm.Helpers" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="enum" t="Include">
+          <e p="Magic" t="Include">
+            <e p="Edicts.cs" t="Include" />
+            <e p="Elements.cs" t="Include" />
+          </e>
+          <e p="People" t="Include">
+            <e p="DemiGod.cs" t="Include" />
+            <e p="God.cs" t="Include" />
+            <e p="HighGod.cs" t="Include" />
+            <e p="Magus.cs" t="Include" />
+            <e p="Saints.cs" t="Include" />
+            <e p="Sovereign.cs" t="Include" />
+            <e p="Warriors.cs" t="Include" />
+          </e>
+        </e>
+        <e p="MightyRealm.Helpers.csproj" t="IncludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.0" t="Include">
+              <e p="MightyRealm.Helpers.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="MightyRealm.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="Presentation" t="Include" />
+    </e>
+  </component>
+</project>
