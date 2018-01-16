@@ -2,6 +2,7 @@
 {
     public enum Saints
     {
+        None,
         Early,
         Middle,
         Peak

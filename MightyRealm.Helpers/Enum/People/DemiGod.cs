@@ -2,6 +2,7 @@
 {
     public enum DemiGod
     {
+        None,
         Early,
         Middle,
         Peak

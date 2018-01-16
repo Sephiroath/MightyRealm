@@ -102,7 +102,6 @@
       </e>
       <e p="MightyRealm.Core" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
-        <e p="Elementgs" t="Include" />
         <e p="Magic" t="Include">
           <e p="_Magic.cs" t="Include" />
           <e p="Edict.cs" t="Include" />
@@ -118,6 +117,7 @@
         </e>
         <e p="People" t="Include">
           <e p="_People.cs" t="Include" />
+          <e p="Commoner.cs" t="Include" />
           <e p="Person.cs" t="Include" />
         </e>
       </e>

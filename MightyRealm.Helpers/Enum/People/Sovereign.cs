@@ -2,6 +2,7 @@
 {
     public enum Sovereign
     {
+        None,
         Lesser,
         Intermediate,
         High

@@ -2,6 +2,7 @@
 {
     public enum Magus
     {
+        None,
         FirstRank,
         SecondRank,
         ThirdRank,

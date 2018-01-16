@@ -2,6 +2,7 @@
 {
     public enum HighGod
     {
+        None,
         Early,
         Middle,
         Peak,
