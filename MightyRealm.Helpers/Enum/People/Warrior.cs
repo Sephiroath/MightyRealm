@@ -1,6 +1,6 @@
 ﻿namespace MightyRealm.Helpers.Enum.People
 {
-    public enum Warriors
+    public enum Warrior
     {
         FirstRank,
         SecondRank,

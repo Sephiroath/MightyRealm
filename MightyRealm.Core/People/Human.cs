@@ -6,7 +6,7 @@ namespace MightyRealm.Core.People
     {
         public Human()
         {
-            WarriorRank = Warriors.FirstRank;
+            WarriorRank = Warrior.FirstRank;
             MagusRank = Magus.None;
             SaintsRank = Saints.None;
             DemigodRank = DemiGod.None;
@@ -16,7 +16,7 @@ namespace MightyRealm.Core.People
         }
         public string Name { get; set; }
         public string FamilyName { get; set; }
-        public Warriors WarriorRank { get; set; }
+        public Warrior WarriorRank { get; set; }
         public Magus MagusRank { get; set; }
         public Saints SaintsRank { get; set; }
         public DemiGod DemigodRank { get; set; }

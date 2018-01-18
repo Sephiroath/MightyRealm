@@ -102,6 +102,13 @@
       </e>
       <e p="MightyRealm.Core" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
+        <e p="Currency" t="Include">
+          <e p="Gold.cs" t="Include" />
+        </e>
+        <e p="Loot" t="Include">
+          <e p="_Loot.cs" t="Include" />
+          <e p="Treasure.cs" t="Include" />
+        </e>
         <e p="Magic" t="Include">
           <e p="_Magic.cs" t="Include" />
           <e p="Edict.cs" t="Include" />
@@ -117,8 +124,15 @@
         </e>
         <e p="People" t="Include">
           <e p="_People.cs" t="Include" />
-          <e p="Commoner.cs" t="Include" />
-          <e p="Person.cs" t="Include" />
+          <e p="Commoners.cs" t="Include" />
+          <e p="Human.cs" t="Include" />
+        </e>
+        <e p="Places" t="Include">
+          <e p="_Place.cs" t="Include" />
+          <e p="City.cs" t="Include" />
+          <e p="Kingdom.cs" t="Include" />
+          <e p="LegendaryLandmark.cs" t="Include" />
+          <e p="Plane.cs" t="Include" />
         </e>
       </e>
       <e p="MightyRealm.Data.Mock" t="IncludeRecursive">
@@ -147,7 +161,7 @@
             <e p="Magus.cs" t="Include" />
             <e p="Saints.cs" t="Include" />
             <e p="Sovereign.cs" t="Include" />
-            <e p="Warriors.cs" t="Include" />
+            <e p="Warrior.cs" t="Include" />
           </e>
         </e>
         <e p="MightyRealm.Helpers.csproj" t="IncludeRecursive" />

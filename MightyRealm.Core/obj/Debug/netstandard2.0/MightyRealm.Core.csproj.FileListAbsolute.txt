@@ -6,3 +6,5 @@ C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Core\obj\Debug\netst
 C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Core\obj\Debug\netstandard2.0\MightyRealm.Core.AssemblyInfo.cs
 C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Core\obj\Debug\netstandard2.0\MightyRealm.Core.dll
 C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Core\obj\Debug\netstandard2.0\MightyRealm.Core.pdb
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Core\bin\Debug\netstandard2.0\MightyRealm.Helpers.dll
+C:\Users\albarracinca\RiderProjects\MightyRealm\MightyRealm.Core\bin\Debug\netstandard2.0\MightyRealm.Helpers.pdb
