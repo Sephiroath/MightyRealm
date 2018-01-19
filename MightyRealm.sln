@@ -19,6 +19,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyRealm.Data.Mock", "Mi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyRealm.Helpers", "MightyRealm.Helpers\MightyRealm.Helpers.csproj", "{F6D856DF-9641-4149-977A-E34246A716B1}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{190394F8-4A2C-4C6E-8905-A1B8F323020E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MightyRealm.Test", "MightyRealm.Test\MightyRealm.Test.csproj", "{76F39F50-BCF5-467D-A3C5-F990A2AC563D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -41,6 +45,10 @@ Global
 		{F6D856DF-9641-4149-977A-E34246A716B1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6D856DF-9641-4149-977A-E34246A716B1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6D856DF-9641-4149-977A-E34246A716B1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{76F39F50-BCF5-467D-A3C5-F990A2AC563D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{76F39F50-BCF5-467D-A3C5-F990A2AC563D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{76F39F50-BCF5-467D-A3C5-F990A2AC563D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{76F39F50-BCF5-467D-A3C5-F990A2AC563D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,5 +58,6 @@ Global
 		{065A5609-E7F0-41AC-BE20-3A176A79E044} = {7D7DEA68-6F8E-4AB2-9822-A08DC3A17266}
 		{098B393D-2A47-4893-BD56-7B6389D59FAC} = {2DA573DE-C031-4A68-B395-30739DBF089B}
 		{F6D856DF-9641-4149-977A-E34246A716B1} = {7D7DEA68-6F8E-4AB2-9822-A08DC3A17266}
+		{76F39F50-BCF5-467D-A3C5-F990A2AC563D} = {190394F8-4A2C-4C6E-8905-A1B8F323020E}
 	EndGlobalSection
 EndGlobal

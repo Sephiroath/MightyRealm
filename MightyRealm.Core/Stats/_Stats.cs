@@ -2,19 +2,19 @@
 
 namespace MightyRealm.Core.Stats
 {
-    public abstract class _Stats : IAttribute
+    public abstract class _Stats : IStat
     {
-        protected Attributes AttributeType { get; set; }
-        private long Amount { get; set; }    
+        protected StatTypes StatType { get; set; }
+        public long Amount { get; set; }    
         
         public long GetAmount()
         {
             return Amount;
         }
 
-        public Attributes GetAttribute()
+        public StatTypes GetAttribute()
         {
-            return AttributeType;
+            return StatType;
         }
     }    
 }

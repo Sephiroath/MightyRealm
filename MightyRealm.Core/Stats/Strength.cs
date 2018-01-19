@@ -6,7 +6,7 @@ namespace MightyRealm.Core.Stats
     {
         public Strength()
         {
-            AttributeType = Attributes.Strength;
+            StatType = StatTypes.Strength;
         }
     }
 }

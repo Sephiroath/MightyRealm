@@ -6,7 +6,7 @@ namespace MightyRealm.Core.Stats
     {
         public Intelligence()
         {
-            AttributeType = Attributes.Intelligence;
+            StatType = StatTypes.Intelligence;
         }
     }
 }

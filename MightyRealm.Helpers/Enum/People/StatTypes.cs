@@ -1,6 +1,6 @@
 ﻿namespace MightyRealm.Helpers.Enum.People
 {
-    public enum Attributes
+    public enum StatTypes
     {
         Intelligence,
         Strength,

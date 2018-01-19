@@ -6,7 +6,7 @@ namespace MightyRealm.Core.Stats
     {
         public Dexterity()
         {
-            AttributeType = Attributes.Dexterity;
+            StatType = StatTypes.Dexterity;
         }
     }
 }

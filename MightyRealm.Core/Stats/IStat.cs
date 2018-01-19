@@ -2,9 +2,9 @@
 
 namespace MightyRealm.Core.Stats
 {
-    public interface IAttribute
+    public interface IStat
     {
         long GetAmount();
-        Attributes GetAttribute();
+        StatTypes GetAttribute();
     }
 }
