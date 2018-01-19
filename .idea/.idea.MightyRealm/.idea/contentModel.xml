@@ -101,9 +101,20 @@
         </e>
       </e>
       <e p="MightyRealm.Core" t="IncludeRecursive">
+        <e p="Armor" t="Include">
+          <e p="_Armor.cs" t="Include" />
+          <e p="Boots.cs" t="Include" />
+          <e p="FullSet.cs" t="Include" />
+          <e p="Gloves.cs" t="Include" />
+          <e p="Helm.cs" t="Include" />
+          <e p="Shield.cs" t="Include" />
+        </e>
         <e p="bin" t="ExcludeRecursive" />
         <e p="Currency" t="Include">
+          <e p="_Currency.cs" t="Include" />
+          <e p="Copper.cs" t="Include" />
           <e p="Gold.cs" t="Include" />
+          <e p="Silver.cs" t="Include" />
         </e>
         <e p="Loot" t="Include">
           <e p="_Loot.cs" t="Include" />
@@ -134,6 +145,22 @@
           <e p="LegendaryLandmark.cs" t="Include" />
           <e p="Plane.cs" t="Include" />
         </e>
+        <e p="Stats" t="Include">
+          <e p="_Stats.cs" t="Include" />
+          <e p="Dexterity.cs" t="Include" />
+          <e p="IAttribute.cs" t="Include" />
+          <e p="Intelligence.cs" t="Include" />
+          <e p="Strength.cs" t="Include" />
+        </e>
+        <e p="Weapon" t="Include">
+          <e p="_Weapon.cs" t="Include" />
+          <e p="Bow.cs" t="Include" />
+          <e p="Dagger.cs" t="Include" />
+          <e p="Fist.cs" t="Include" />
+          <e p="IWeapon.cs" t="Include" />
+          <e p="Staff.cs" t="Include" />
+          <e p="Sword.cs" t="Include" />
+        </e>
       </e>
       <e p="MightyRealm.Data.Mock" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -155,6 +182,7 @@
             <e p="Elements.cs" t="Include" />
           </e>
           <e p="People" t="Include">
+            <e p="Attributes.cs" t="Include" />
             <e p="DemiGod.cs" t="Include" />
             <e p="God.cs" t="Include" />
             <e p="HighGod.cs" t="Include" />
@@ -162,6 +190,9 @@
             <e p="Saints.cs" t="Include" />
             <e p="Sovereign.cs" t="Include" />
             <e p="Warrior.cs" t="Include" />
+          </e>
+          <e p="Weapon" t="Include">
+            <e p="Rarity.cs" t="Include" />
           </e>
         </e>
         <e p="MightyRealm.Helpers.csproj" t="IncludeRecursive" />

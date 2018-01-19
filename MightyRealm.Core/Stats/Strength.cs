@@ -1,0 +1,12 @@
+﻿using MightyRealm.Helpers.Enum.People;
+
+namespace MightyRealm.Core.Stats
+{
+    public class Strength : _Stats
+    {
+        public Strength()
+        {
+            AttributeType = Attributes.Strength;
+        }
+    }
+}

@@ -1,6 +1,6 @@
 ﻿namespace MightyRealm.Core.Currency
 {
-    public class Gold : _Currency
+    public abstract class _Currency
     {
         
     }
